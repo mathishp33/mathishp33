@@ -2,6 +2,10 @@
 
 ###
 
+<p align="left">📚 I'm currently learning Rust and C++<br>🎯 Goals: Working on DataMorph with dgdsd</p>
+
+###
+
 <h2 align="left">⚡ Github Stats</h2>
 
 ###
