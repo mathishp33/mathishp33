@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is Mathis and I'm a hIgh school student from France</h2>
+<h2 align="left">Hi 👋! My name is Mathis and I'm a high school student from France 🇫🇷</h2>
+
+###
+
+<h2 align="left">⚡ Github Stats</h2>
 
 ###
 
@@ -31,10 +35,6 @@
 
 ###
 
-<img align="right" height="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fworldofgamer.com%2Fnovo%2Fwp-content%2Fuploads%2F2020%2F07%2Fmaxresdefault-1.jpg&f=1&nofb=1&ipt=4453d51e3de04d57e9d9bbab7ad88471a8363cdafde546ccfb87226d4ab56d9a&ipo=images"  />
-
-###
-
 <div align="left">
   <a href="https://www.instagram.com/mathis.hp33/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -46,5 +46,13 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<img align="right" height="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fworldofgamer.com%2Fnovo%2Fwp-content%2Fuploads%2F2020%2F07%2Fmaxresdefault-1.jpg&f=1&nofb=1&ipt=4453d51e3de04d57e9d9bbab7ad88471a8363cdafde546ccfb87226d4ab56d9a&ipo=images"  />
+
+###
+
+<h2 align="left">🏆 Github Trophies</h2>
 
 ###
