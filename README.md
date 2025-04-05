@@ -49,10 +49,6 @@
 
 ###
 
-<img align="right" height="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fworldofgamer.com%2Fnovo%2Fwp-content%2Fuploads%2F2020%2F07%2Fmaxresdefault-1.jpg&f=1&nofb=1&ipt=4453d51e3de04d57e9d9bbab7ad88471a8363cdafde546ccfb87226d4ab56d9a&ipo=images"  />
-
-###
-
 <h2 align="left">🏆 Github Trophies</h2>
 
 ###
