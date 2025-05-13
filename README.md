@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Rust and C++<br>🎯 Working on DataMorph with dgdsd</p>
+<p align="left">📚 I'm currently learning Rust and C++<br>🎯 Working on DataMorph with dgdzd and Alexandre_1a</p>
 
 ###
 
